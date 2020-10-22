@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### Links
 - Academic Updates: https://rongyi.ai
-- Personal Homepage: https://rongyi.io
+- Personal Homepage: ~~https://rongyi.io~~
 - Service Status: https://status.rongyi.io
 
 ### About
