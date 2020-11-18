@@ -1,27 +1,12 @@
 ### Hi there 👋
-### Links
-- Academic Updates: https://rongyi.ai
-- Personal Homepage: ~~https://rongyi.io~~
-- Service Status: https://status.rongyi.io
+I'm Yi Rong, a Computer Science student. I do research, engineering, photography and music.
 
-### About
-##### Myself
-See https://rongyi.ai
+![Github Stats](https://github-readme-stats.vercel.app/api?username=LER0ever)
 
-##### This Github Account
-I use this GitHub account to publish my open source projects. And before ready to ship, they are developed in-house at https://lab.rongyi.io.
+### README!
+- This GitHub account is for open source projects only. And before ready to ship, they are developed in-house (at [GitLab](https://lab.rongyi.io) and [Gerrit](https://cr.rongyi.io) ).
+- I do have a website for showcasing my research works: https://rongyi.ai
+- I used to have a personal homepage, but it is now under construction.
+- Before asking me questions, please read this wonderful article: [How To Ask Questions The Smart Way](https://ry.sb/smart-questions)
+- Working on an FAQ page.
 
-<!--
-**LER0ever/LER0ever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
