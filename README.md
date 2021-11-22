@@ -9,4 +9,3 @@ I'm Yi Rong, a Computer Science student. I do research, engineering, photography
 - I used to have a personal homepage, but it is now under construction.
 - Before asking me questions, please read this wonderful article: [How To Ask Questions The Smart Way](https://ry.sb/smart-questions)
 - Working on an FAQ page.
-
